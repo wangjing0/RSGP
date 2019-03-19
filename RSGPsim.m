@@ -8,15 +8,15 @@
 %%  Parameters
 clc; clear; close all;
        Nmax = 10e3;
-    Wp      = .1;
-    sig_g   = 2*Wp;
-    l1      = 20; % correlation length, in unit of trials
-    l2      = 1;
-    Alpha   = [1.0, 0.0, 0.5];
+    Wp      = .1;  % weber constant
+    sig_g   = 2*Wp; % total variance
+    l1      = 20; % long range correlation length, in unit of trials
+    l2      = 2; % reward sensitive correlation length, in unit of trials
+    Alpha   = [1.0, 0.0, 0.5]; % fraction of variance for slow component,  0 ~ 1
     NAlpha  = length(Alpha);
-    sig_g0  = 1*Wp;  
+    sig_g0  = 1*Wp;  % variance of private noise
     acLength= ceil(2.5*max(l1,l2)); % max length of correlation to be considered
-    k_reward= 0.1; 
+    k_reward= 0.1; % reward acceptance window
    dk_reward= 0.01;
 k_reward_min= 0.02; 
 k_reward_max= 0.5;
