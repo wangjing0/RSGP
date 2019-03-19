@@ -10,7 +10,7 @@ Reward sensitive covariance matrix
 
   	covSEisoRew.m
 
-Gaussian process machine learning (GPML) toolkit
+Gaussian process for machine learning (GPML) toolkit
 
 http://www.gaussianprocess.org/gpml/code/matlab/doc/
 
