@@ -1,7 +1,11 @@
-# RSGP: Reward Sensitive Gaussian Process
-RSGPsim.m
+# RSGP: 
+Reward Sensitive Gaussian Process
+Main function 
 
-# Accessory functions
+  	RSGPsim.m
+
+
+# Auxiliary functions
 http://www.gaussianprocess.org/gpml/code/matlab/doc/
 
 https://github.com/raacampbell/shadedErrorBar
