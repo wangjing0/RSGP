@@ -1,6 +1,5 @@
 # RSGP: 
 Reward Sensitive Gaussian Process
-Main function 
 
   	RSGPsim.m
 
