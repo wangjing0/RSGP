@@ -1,5 +1,5 @@
 # RSGP: Reward Sensitive Gaussian Process
-RSGP_simulation.m
+RSGPsim.m
 
 # Accessory functions
 http://www.gaussianprocess.org/gpml/code/matlab/doc/
