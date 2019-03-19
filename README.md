@@ -9,6 +9,7 @@ Reward Sensitive Gaussian Process
 Reward sensitive covariance matrix
 
   	covSEisoRew.m
+    covScaleRew.m
 
 Gaussian process for machine learning (GPML) toolkit
 
