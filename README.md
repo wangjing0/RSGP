@@ -1,7 +1,7 @@
 #  Reward Sensitive Gaussian Process (RSGP)
 
-  1) simulate data from model 
-  2) fit data to the model
+  1) simulate data from the model 
+  2) feed the data back to find model parameters 
 
   	RSGPsim.m
 
