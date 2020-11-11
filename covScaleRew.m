@@ -23,8 +23,8 @@ function [K,dK] = covScaleRew(cov, lsf, hyp, x, z)
 %
 % Copyright (c) by Carl Edward Rasmussen, Hannes Nickisch & Roman Garnett
 %                                                                    2016-04-26.
-%
-% See also COVFUNCTIONS.M.
+% Modified with reward history.    by Jing Wang 2019-3-19
+
 
 if nargin==0, error('cov function must be specified'), end
 if nargin<=1, lsf = []; end, narg = nargin;                % set a default value
