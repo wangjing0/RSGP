@@ -18,8 +18,8 @@ clc; clear; close all;
     acLength= ceil(2.5*max(l1,l2)); % max length of correlation to be considered
     k_reward= 0.1; % reward acceptance window
    dk_reward= 0.01;
-k_reward_min= 0.02; 
-k_reward_max= 0.5;
+k_reward_min= 0.05; 
+k_reward_max= 0.3;
  kernelfunc = 'squaredexponential';
 
      N_bins = 8;
@@ -166,7 +166,7 @@ inde = find(Reward ==0);   % error trials
                   end
 
         end
- MK = (MK+MK')./2 ;
+ MK = (MK+MK')./2 ; 
 
 %% Maxmium Marginal Likelihood fit to model parameters
 
