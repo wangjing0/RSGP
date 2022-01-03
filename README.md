@@ -1,7 +1,7 @@
 ##  Reward Sensitive Gaussian Process (RSGP)
 
   1) simulate data from the model 
-  2) feed the data back to find model parameters 
+  2) feed the data back to recover model parameters 
 
   	RSGPsim.m
 
@@ -16,7 +16,7 @@ Reward sensitive covariance matrix
 ## References
 Gaussian process for machine learning (GPML) toolkit
 
-http://www.gaussianprocess.org/gpml/code/matlab/doc/
+http://www.gaussianprocess.org/gpml
 
 ShadedErrorBar
 
