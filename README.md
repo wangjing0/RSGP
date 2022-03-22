@@ -1,6 +1,6 @@
 ##  Reward Sensitive Gaussian Process (RSGP)
 <p align="center">
-  <img src="RSGP.png" height="400" >
+  <img src="rsgp.png" height="400" >
 </p>
 
 
