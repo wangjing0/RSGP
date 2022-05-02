@@ -4,8 +4,12 @@
 <p align="center">
   <img src="RSGP.png" height="500" >
 </p>
+<object data="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-[Algo](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
 ### Algorithm for RSGP
 <p align="center">
   <img src="algo1.png" width="1000" >
