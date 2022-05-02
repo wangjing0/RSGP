@@ -6,7 +6,7 @@
 </p>
 
 
-<embed src="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf" width="1000"  type="application/pdf">
+<image src="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf" width="1000"  />
 
 ### Algorithm for RSGP
 <p align="center">
