@@ -6,12 +6,13 @@
 <p align="center">
   <img src="algo1.png" width="800" >
 </p>
-### Algorithm for MCMC
+
+### Algorithm for Gradient search
 <p align="center">
   <img src="algo2.png" width="800" >
 </p>
 
-### Algorithm for Gradient search
+### Algorithm for MCMC
 <p align="center">
   <img src="algo3.png" width="800" >
 </p>
