@@ -6,7 +6,7 @@
 </p>
 
 
-<object src="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf" type="application/pdf" width="100%"  > </object>
+<object data="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf" type="application/pdf" width="100%"  > </object>
 
 ### Algorithm for RSGP
 <p align="center">
