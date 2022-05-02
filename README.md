@@ -1,21 +1,22 @@
 ##  Reward Sensitive Gaussian Process (RSGP)
+[Article] (https://elifesciences.org/articles/55872)
 <p align="center">
   <img src="RSGP.png" height="500" >
 </p>
 
 ### Algorithm for RSGP
 <p align="center">
-  <img src="algo1.png" width="800" >
+  <img src="algo1.png" width="1000" >
 </p>
 
 ### Algorithm for Gradient search
 <p align="center">
-  <img src="algo2.png" width="800" >
+  <img src="algo2.png" width="1000" >
 </p>
 
 ### Algorithm for MCMC
 <p align="center">
-  <img src="algo3.png" width="800" >
+  <img src="algo3.png" width="1000" >
 </p>
 
 ## Code and Auxiliary Functions
