@@ -5,6 +5,7 @@
   <img src="RSGP.png" height="500" >
 </p>
 
+[Algo](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
 ### Algorithm for RSGP
 <p align="center">
   <img src="algo1.png" width="1000" >
