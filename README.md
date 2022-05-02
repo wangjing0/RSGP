@@ -1,24 +1,20 @@
-##  Reward Sensitive Gaussian Process (RSGP)
+##  [Reward Sensitive Gaussian Process (RSGP)](https://elifesciences.org/articles/55872)
 
-[Article](https://elifesciences.org/articles/55872)
 <p align="center">
   <img src="RSGP.png" height="500" >
 </p>
 
-
-<object data="https://github.com/wangjing0/RSGP/blob/master/Algo.pdf" type="application/pdf" width="100%"  > </object>
-
-### Algorithm for RSGP
+### [Algorithm for RSGP](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
 <p align="center">
   <img src="algo1.png" width="1000" >
 </p>
 
-### Algorithm for Gradient search
+### [Algorithm for Gradient search](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
 <p align="center">
   <img src="algo2.png" width="1000" >
 </p>
 
-### Algorithm for MCMC
+### [Algorithm for MCMC](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
 <p align="center">
   <img src="algo3.png" width="1000" >
 </p>
