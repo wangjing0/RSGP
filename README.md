@@ -1,19 +1,19 @@
 ##  Reward Sensitive Gaussian Process (RSGP)
 <p align="center">
-  <img src="RSGP.png" height="400" >
+  <img src="RSGP.png" height="500" >
 </p>
 ### Algorithm for RSGP
 <p align="center">
-  <img src="algo1.png" height="400" >
+  <img src="algo1.png" width="400" >
 </p>
 ### Algorithm for MCMC
 <p align="center">
-  <img src="algo2.png" height="400" >
+  <img src="algo2.png" width="400" >
 </p>
 
 ### Algorithm for Gradient search
 <p align="center">
-  <img src="algo3.png" height="400" >
+  <img src="algo3.png" width="400" >
 </p>
 
 
