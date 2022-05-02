@@ -1,5 +1,6 @@
 ##  Reward Sensitive Gaussian Process (RSGP)
-[Article] (https://elifesciences.org/articles/55872)
+
+[Article](https://elifesciences.org/articles/55872)
 <p align="center">
   <img src="RSGP.png" height="500" >
 </p>
