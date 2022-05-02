@@ -2,6 +2,19 @@
 <p align="center">
   <img src="RSGP.png" height="400" >
 </p>
+### Algorithm for RSGP
+<p align="center">
+  <img src="algo1.png" height="400" >
+</p>
+### Algorithm for MCMC
+<p align="center">
+  <img src="algo2.png" height="400" >
+</p>
+
+### Algorithm for Gradient search
+<p align="center">
+  <img src="algo3.png" height="400" >
+</p>
 
 
   1) simulate data from the model 
