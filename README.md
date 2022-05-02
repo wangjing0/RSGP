@@ -2,6 +2,7 @@
 <p align="center">
   <img src="RSGP.png" height="500" >
 </p>
+
 ### Algorithm for RSGP
 <p align="center">
   <img src="algo1.png" width="800" >
@@ -17,14 +18,12 @@
   <img src="algo3.png" width="800" >
 </p>
 
-
+## Code and Auxiliary Functions
   1) simulate data from the model 
   2) feed the data back to recover model parameters 
 
   	RSGPsim.m
 
-
-## Auxiliary Functions
 
 Reward sensitive covariance matrix
 
