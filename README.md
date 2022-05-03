@@ -9,7 +9,7 @@
   <img src="algo1.png" width="1000" >
 </p>
 
-### [Algorithm for Gradient search](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
+### [Algorithm for reward gradient search](https://github.com/wangjing0/RSGP/blob/master/Algo.pdf)
 <p align="center">
   <img src="algo2.png" width="1000" >
 </p>
