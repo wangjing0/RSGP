@@ -1,4 +1,5 @@
-##  [Reward Sensitive Gaussian Process (RSGP)](https://elifesciences.org/articles/55872)
+##  Reward Sensitive Gaussian Process (RSGP)
+[Citation: Jing Wang et al. 2020](https://elifesciences.org/articles/55872)
 
 <p align="center">
   <img src="RSGP.png" height="500" >
