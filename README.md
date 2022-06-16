@@ -1,5 +1,4 @@
 ##  Reward Sensitive Gaussian Process (RSGP)
-[Citation: Jing Wang et al. 2020](https://elifesciences.org/articles/55872)
 
 <p align="center">
   <img src="RSGP.png" height="500" >
@@ -33,10 +32,6 @@ Reward sensitive covariance matrix
     covScaleRew.m
 
 ## References
-Gaussian process for machine learning (GPML) toolkit
+1. [ Jing Wang et al. 2020, "Reinforcement regulates timing variability in thalamus"](https://elifesciences.org/articles/55872)
 
-http://www.gaussianprocess.org/gpml
-
-ShadedErrorBar
-
-https://github.com/raacampbell/shadedErrorBar
+2. [Gaussian process for machine learning (GPML) toolkit](http://www.gaussianprocess.org/gpml)
